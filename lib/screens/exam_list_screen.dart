@@ -33,7 +33,7 @@ class ExamListScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Распоред за испити - [12345]'), // замени со број на индекс
+        title: const Text('Распоред за испити - 191099'), // замени со број на индекс
         centerTitle: true,
       ),
       body: Stack(
